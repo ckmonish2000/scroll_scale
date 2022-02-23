@@ -4,3 +4,18 @@
   background: green;
   border-radius: 100%;
 }
+
+
+.circle_2{
+  height: 100px;
+  width: 100px;
+  background: green;
+  border-radius: 100%;
+  animation: starts linear forwards;
+}
+/* 
+@keyframes starts{
+  from{
+    transform:scale(0.1)
+  }
+} */
